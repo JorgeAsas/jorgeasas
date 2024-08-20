@@ -1,4 +1,4 @@
-## Hi there 👋
+## TAREA SEMANA 1O 👋
 
 <!--
 **JorgeAsas/jorgeasas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
